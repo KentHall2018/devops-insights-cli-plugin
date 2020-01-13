@@ -21,7 +21,7 @@ keywords: doi, devops insights, cli, plug-in
 # {{site.data.keyword.DRA_short}} CLI
 {: #CLI_devops-insights}
 
-The {{site.data.keyword.DRA_full}} CLI provides a set of commands that can be used to integrate your build with {{site.data.keyword.DRA_short}} (doi). There are two different commands that you must use: CLI usage commands and CLI commands to integrate with {{site.data.keyword.DRA_short}}.
+The {{site.data.keyword.DRA_full}} CLI provides a set of commands that can be used to integrate your build with {{site.data.keyword.DRA_short}}. There are two different commands that you must use: CLI usage commands and CLI commands to integrate with {{site.data.keyword.DRA_short}}.
 {:shortdesc}
 
 
